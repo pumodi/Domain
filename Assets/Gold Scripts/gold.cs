@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
-public class value_gold : MonoBehaviour {
+public class gold : MonoBehaviour {
 	public int int_value_gold = 0;
 
 	public void ClickedMinus() {
